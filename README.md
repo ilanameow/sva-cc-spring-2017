@@ -33,16 +33,16 @@
 
 ### Week 2 -- Drawing
 * Topics
-  * Using Github
   * Step-by-step approach
   * Pixels and Color
   * Setup / Draw Functions
   * Shapes
+  * [Using Github](https://github.com/ilanameow/sva-cc-spring-2017/blob/master/week02/github/README.md)
 * Examples
   * [Stroke And Fill](https://jinsung.github.io/sva-cc-spring-2017/week02/examples/01_stroke_fill/index.html)
   * [Colors](https://jinsung.github.io/sva-cc-spring-2017/week02/examples/02_color/index.html)
   * [Shapes](https://jinsung.github.io/sva-cc-spring-2017/week02/examples/03_shapes/index.html)
-  * [Setup & Draw](https://jinsung.github.io/sva-cc-spring-2017/week02/examples/04_random/index.html)
+  * [Shape Modes](https://jinsung.github.io/sva-cc-spring-2017/week02/examples/04_shape_modes/index.html)
 * Assignment : Generative art #1
    * Draw shapes
    * No background
@@ -50,21 +50,30 @@
    * Use different colors for stroke and fill
    * Use If statement.
 
-### Week 3 -- Variables / Interaction
+### Week 3 -- Interaction
 * Topics
+  * Comment
+  * Setup & Draw & Background
   * Variables
+  * Interaction
   * MouseX and MouseY
+  * Animation
+  * Easing
+  * Advanced animation examples [01](http://thesystemis.com/projects/mesa-di-voce/) | [02](https://vimeo.com/150728260) | [03](http://box2d-js.sourceforge.net/index2.html)
 * Examples
-  * [Declaring Variables]
-  * [Using Variables]
-  * [Arithmetic]
-  * [Built-in Variables]
-  * [Random]
+  * [Setup & Draw](https://jinsung.github.io/sva-cc-spring-2017/week03/examples/01_setup_draw/index.html)
+  * [Variables and Arithmetic](https://jinsung.github.io/sva-cc-spring-2017/week03/examples/02_variables/index.html)
+  * [Built-in Variables](https://jinsung.github.io/sva-cc-spring-2017/week03/examples/03_built_in_variables/index.html)
+  * [Interaction / Mouse Position](https://jinsung.github.io/sva-cc-spring-2017/week03/examples/04_mouse_pos/index.html)
+  * [Interaction / pmouse](https://jinsung.github.io/sva-cc-spring-2017/week03/examples/05_pmouse/index.html)
+  * [No Background](https://jinsung.github.io/sva-cc-spring-2017/week03/examples/06_nobackground/index.html)
+  * [Random](https://jinsung.github.io/sva-cc-spring-2017/week03/examples/07_random/index.html)
+  * [Easing](https://jinsung.github.io/sva-cc-spring-2017/week03/examples/08_easing/index.html)
 
 ### Week 4 -- Conditionals
 * Topics
-  * Mouse and Keyboard Interaction
-  * Conditional Statements
+  * If Else
+  * Loop
 * Examples
 
 ### Week 5 -- Functions / Arrays - Assignment 1 due date
