@@ -20,7 +20,7 @@ function draw(){
 function drawTarget(x,y){
 	circleSize=300;
 	var numberOfCircles=10;
-	for (var i=0, i < numberOfCircles; i++){
+	for (var i=0; i < numberOfCircles; i++){
 		var segment=i/numberOfCircles
 		fill(segment*250);
 		circleSize=circleSize - segment*circleSize;

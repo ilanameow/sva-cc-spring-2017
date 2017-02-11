@@ -6,7 +6,7 @@ var backgroundColor;
 
 
 function setup(){
-	createCanvas(550,550);
+	createCanvas(1000,1000);
 	targetX=width/2;
 	targetY=height/2;
 }
@@ -17,7 +17,7 @@ function draw(){
 	
 	background(backgroundColor);
 	drawTarget(targetX,targetY,200,10)
-	drawTarget(mouseX,mouseY,100,20)
+	drawTarget(mouseX,mouseY,20,20)
 
 }
 	
