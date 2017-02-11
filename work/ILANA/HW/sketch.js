@@ -20,7 +20,7 @@ if(leave){
 
 
 
-rect(mouseX-10,mouseY-10,mySize,mySize)
+ellipse(mouseX-10,mouseY-10,mySize,mySize)
 
 
 }
@@ -28,6 +28,6 @@ rect(mouseX-10,mouseY-10,mySize,mySize)
 function mouseClicked(){
 	if (mouseX < windowWidth/2, mouseY < windowHeight/2)
 		fill(100,20,10)
-	else(mouseX > windowWith/2, mouseY > windowHeight/2)
-		fill(20,100,20)
+	if (mouseX > windowWith/2, mouseY > windowHeight/2)
+		fill(20,100,20) 
 }
