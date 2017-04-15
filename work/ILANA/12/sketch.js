@@ -5,7 +5,15 @@ function setup (){
 
 function draw(){
     background(200);
-    rotate();
-    rect(100,100,50,50);
+    translate(100,100);
+    rotate(Math.PI/4);
     
+    fill(255,255,255);
+    rect(0,0,100,100);
+    fill(255,0,0);
+    rect(0,0,50,50);
+
+    translate(100,100);
+    fill(0,255,0)
+    ellipse(0,0,50,50)
 }
